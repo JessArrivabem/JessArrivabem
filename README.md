@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jess</h1>
-<h3 align="center">I'm a professional QA in Games Industry. I'm from Brazil.</h3>
+<h3 align="center">I'm a professional QA in Games Industry</h3>
 
 - 🌱 I’m currently learning **C#, Python, C++**
 
