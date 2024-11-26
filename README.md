@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jess</h1>
 <h3 align="center">I'm a professional QA in Games Industry</h3>
 
-- 🌱 I’m currently learning **C#, Python, C++**
+- 🌱 I’m currently learning **C# and I'd like in the future to start Python and C++**.
 
 - 📫 How to reach me **jessica.arrivabem@gmail.com**
 
-- ⚡ Fun fact **Cat lover, veggie, single-player games are the best, but you can find me playing League of Legends sometimes! haha**
+- ⚡ **Cat lover, veggie, single-player games are the best, but you can find me playing League of Legends sometimes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
